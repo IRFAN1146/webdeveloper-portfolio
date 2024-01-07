@@ -148,6 +148,9 @@ footer{
   margin-top: 100px;
   padding: 130px 200px;
 }
+.social-links a{
+  margin-right: 25px;
+}
 .footer-colum{
   width: 50%;
 }
@@ -162,4 +165,4 @@ footer{
   width: 100%;
 }
 
-.contact
+
